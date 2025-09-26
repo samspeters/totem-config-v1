@@ -91,7 +91,7 @@
             bindings = <
         &kp EXCL  &kp AT  &kp HASH  &kp DOLLAR  &kp PERCENT  &kp CARET  &kp AMPERSAND  &kp KP_ASTERISK  &kp APOS    &kp DQT
           &trans  &trans    &trans      &trans       &trans     &kp EQUAL        &kp HOME           &kp PG_UP   &trans     &trans
-&trans    &trans  &trans    &trans      &trans       &trans     &kp PG_DOWN      &kp END           &kp PG_DOWN   &trans  &kp SLASH  &kp HOME
+&trans    &trans  &trans    &trans      &trans       &trans     &kp PLUS      &kp END           &kp PG_DOWN   &trans  &kp SLASH  &kp HOME
                             &trans      &trans       &trans     &trans         &trans           &trans
             >;
         };
