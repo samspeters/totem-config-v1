@@ -79,9 +79,9 @@
         Nav {
             label = "Nav";
             bindings = <
-            &kp C_VOL_DN  &kp C_VOL_UP  &kp UP     &kp PIPE  &kp LBRC  &kp RBRC  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9         &kp PLUS
+            &kp C_VOL_DN  &kp C_VOL_UP  &kp UP     &kp PIPE  &kp LBRC  &kp RBRC  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3         &kp PLUS
               &kp LCTRL     &kp LEFT      &kp DOWN  &kp RIGHT  &kp LBKT  &kp RBKT  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6        &kp MINUS
-&kp LEFT_ALT          &trans  &kp PAGE_UP        &trans  &kp PG_DN  &kp LPAR  &kp RPAR  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp KP_MULTIPLY  &kp EQUAL
+&kp LEFT_ALT          &trans  &kp PAGE_UP        &trans  &kp PG_DN  &kp LPAR  &kp RPAR  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp KP_MULTIPLY  &kp EQUAL
                                                  &trans     &trans    &trans    &kp SPACE        &kp DOT  &kp NUMBER_0
             >;
         };
